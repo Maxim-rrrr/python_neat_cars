@@ -1,0 +1,3 @@
+pygame~=2.0.1
+neat~=0.4.1
+neat-python
